@@ -1,0 +1,23 @@
+Hello there! Due to time constraints, I did not implement instructions directly in-game. Thus, here are some basic notes
+and keybindings you should know:
+
+Movement: "W A S D"
+Attack/Action: "Mouse Left-Click"
+Continue dialogue: Any key (mouse or keyboard) should work. Note that keeping it pressed will speed up the dialogue.
+Enter/Exit Fullscreen: "CTRL + F"
+Restart Game: "R"
+Swapping Weapons: "1" -> Sword ;  "2" -> Bow ;  "3" -> Spellbook. You may only switch to a weapon that you have unlocked.
+
+Notes:
+- Use "R" to restart the game in case of bugs, glitches, or just for fun!
+- Stay alert for specific prompts in-game (i.e. summoning circles will prompt you press "Z" to start/end challenges).
+- The game will end automatically a few seconds after reaching the ending. Please be patient.
+- The game will begin on fullscreen automatically, but you may change so by pressing CTRL + F anytime during gameplay.
+
+Additional Notes:
+- Open the game via Swords and Sources.exe
+- If you must close the game before finishing, press CTRL + F to exit fullscreen. You may close it from there.
+- The game is only available in Windows. Unfortunately, Android, iOS, and MacOS are not supported.
+
+I hope you enjoy it as much as I enjoyed making it!
+- Carlos J. Suarez
